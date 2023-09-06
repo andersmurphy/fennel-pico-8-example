@@ -1,0 +1,3 @@
+[submodule "fennel"]
+	path = fennel
+	url = https://git.sr.ht/~technomancy/fennel
